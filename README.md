@@ -1,1 +1,1 @@
-# python-application
+# DevOps Example: Jenkins Pipeline with Docker & Minikube
