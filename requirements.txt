@@ -1,0 +1,2 @@
+# This ensures that Flask will be installed when the Docker container is built.
+flask
